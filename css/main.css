@@ -70,15 +70,15 @@ body {
 .item-1 {
     z-index: 2;
     opacity: 1;
-  background:url(images/andre.jpg);
+  background:url('../images/andre.jpg');
   background-size:cover;
   }
 .item-2{
-  background:url(images/andreluiz.jpg);
+  background:url('../images/andreluiz.jpg');
   background-size:cover;
 }
 .item-3{
-  background:url(images/andresert.jpg);
+  background:url('../images/andresert.jpg');
   background-size:cover;
 }
 
